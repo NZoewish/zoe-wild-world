@@ -1,0 +1,3992 @@
+[
+  {
+    "id": "fact-1",
+    "title": "A Dog's Nose Print is Unique",
+    "fact": "Just like human fingerprints, every single dog's nose print is completely unique and can be used for biometric identification!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/mammals/facts/domestic-dog",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #1",
+    "tags": [
+      "dogs",
+      "senses",
+      "nose"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-2",
+    "title": "Cat Whisker Radar",
+    "fact": "A cat's whiskers aren't just hairs—they are ultra-sensitive touch receptors called vibrissae that can detect microscopic air currents!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Magazine",
+    "sourceUrl": "https://www.smithsonianmag.com/science-nature/why-cats-have-whiskers-180974895/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #2",
+    "tags": [
+      "cats",
+      "whiskers",
+      "biology"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-3",
+    "title": "Dogs Sense Earth's Magnetic Field",
+    "fact": "Dogs can sense the Earth's geomagnetic field and often use it as a natural compass when orienting themselves or navigating!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1534361960057-19889db9621e?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "PBS NOVA",
+    "sourceUrl": "https://www.pbs.org/wgbh/nova/article/dogs-magnetic-field/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #3",
+    "tags": [
+      "dogs",
+      "navigation",
+      "science"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-4",
+    "title": "Purring Vibrations Heal Bones",
+    "fact": "A cat's purr vibrates between 25 and 140 Hertz. Frequencies in this exact range have been shown in medical studies to stimulate bone regeneration and tissue repair!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Scientific American",
+    "sourceUrl": "https://www.scientificamerican.com/article/why-do-cats-purr/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #4",
+    "tags": [
+      "cats",
+      "purring",
+      "health"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-5",
+    "title": "Dog Hearing Range vs Humans",
+    "fact": "Dogs can hear frequencies up to 45,000 Hertz, whereas humans can only hear up to 20,000 Hertz. They can also move each ear independently!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Kennel Club",
+    "sourceUrl": "https://www.akc.org/expert-advice/health/how-do-dogs-hear/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #5",
+    "tags": [
+      "dogs",
+      "hearing",
+      "ears"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-6",
+    "title": "Cheetahs Cannot Roar",
+    "fact": "Unlike lions and tigers, cheetahs belong to the subfamily Felinae. They cannot roar; instead, they purr, chirrup like birds, and hiss!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo Wildlife Alliance",
+    "sourceUrl": "https://animals.sandiegozoo.org/animals/cheetah",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #6",
+    "tags": [
+      "cats",
+      "cheetah",
+      "wild-cats"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-7",
+    "title": "Dog Tail Language",
+    "fact": "A dog wagging its tail to the right indicates positive, happy emotions, while a wag to the left reflects anxiety or hesitation due to left-brain vs right-brain processing!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Current Biology / Cell",
+    "sourceUrl": "https://www.cell.com/current-biology/fulltext/S0960-9822(13)01143-3",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #7",
+    "tags": [
+      "dogs",
+      "communication",
+      "behavior"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-8",
+    "title": "Cats Have a Third Eyelid",
+    "fact": "Cats possess a translucent third eyelid called a nictitating membrane that sweeps horizontally across the eye to protect and lubricate the cornea!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1561948955-570b270e7c36?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Cornell Feline Health Center",
+    "sourceUrl": "https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-eyes",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #8",
+    "tags": [
+      "cats",
+      "eyes",
+      "anatomy"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-9",
+    "title": "Bloodhound Scents in Court",
+    "fact": "A Bloodhound's scenting ability is so extraordinarily acute and reliable that their tracking evidence is legally admissible in courtrooms!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1520087619250-584c0ebd45e8?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/kids/article/Bloodhound/352864",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #9",
+    "tags": [
+      "dogs",
+      "bloodhound",
+      "scent"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-10",
+    "title": "Fierce Snow Leopard Paws",
+    "fact": "Snow leopards have huge, wide, fur-covered paws that act like built-in snowshoes, distributing their weight evenly across deep Himalayan snowdrifts!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1588167056547-b847849c0ea7?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "World Wildlife Fund",
+    "sourceUrl": "https://www.worldwildlife.org/species/snow-leopard",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #10",
+    "tags": [
+      "cats",
+      "snow-leopard",
+      "mountains"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-11",
+    "title": "Dogs Dream Just Like Us",
+    "fact": "Brain scans during dog REM sleep show the same neural patterns as humans. They dream about chasing balls, playing with Zoe, and greeting their favorite people!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/animals/article/do-dogs-dream",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #11",
+    "tags": [
+      "dogs",
+      "sleep",
+      "dreams"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-12",
+    "title": "Cats Have 32 Muscles in Each Ear",
+    "fact": "A domestic cat has 32 separate muscles controlling each pinna (outer ear), allowing them to swivel their ears 180 degrees like satellite dishes!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo",
+    "sourceUrl": "https://animals.sandiegozoo.org/animals/domestic-cat",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #12",
+    "tags": [
+      "cats",
+      "ears",
+      "agility"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-13",
+    "title": "African Wild Dog Vote by Sneezing",
+    "fact": "African wild dogs hold democratic 'rallies' before hunting and vote on whether to launch a pack chase by sneezing! More sneezes mean consensus!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Royal Society Publishing",
+    "sourceUrl": "https://royalsocietypublishing.org/doi/10.1098/rspb.2017.0347",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #13",
+    "tags": [
+      "dogs",
+      "wild-dogs",
+      "africa"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-14",
+    "title": "Tiger Striped Skin Secret",
+    "fact": "Tigers don't just have striped fur—their skin underneath also has the exact same stripe pattern tattooed into the epidermis!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian's National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/animals/tiger",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #14",
+    "tags": [
+      "cats",
+      "tiger",
+      "big-cats"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-15",
+    "title": "Basenji: The Barkless Dog",
+    "fact": "The ancient African Basenji dog doesn't bark because of its unusually shaped larynx. Instead, it makes a melodious yodel-like sound called a 'barroo'!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Kennel Club",
+    "sourceUrl": "https://www.akc.org/dog-breeds/basenji/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #15",
+    "tags": [
+      "dogs",
+      "basenji",
+      "breeds"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-16",
+    "title": "Cats Spend 50% of Waking Time Grooming",
+    "fact": "Cats spend almost half their awake hours grooming. Their tongue has tiny backward-facing keratin barbs called papillae that act like a hairbrush and air-conditioner!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1513360309081-38a0c5868b40?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Proceedings of the National Academy of Sciences (PNAS)",
+    "sourceUrl": "https://www.pnas.org/doi/10.1073/pnas.1812119115",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #16",
+    "tags": [
+      "cats",
+      "grooming",
+      "tongue"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-17",
+    "title": "Newfoundland Water Dogs Have Webbed Paws",
+    "fact": "Newfoundland dogs have webbed feet and a water-resistant double coat, making them legendary water rescue lifeguards in maritime history!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Canadian Kennel Club",
+    "sourceUrl": "https://www.ckc.ca/en/Choosing-a-Dog/Choosing-a-Breed/Working-Dogs/Newfoundland",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #17",
+    "tags": [
+      "dogs",
+      "newfoundland",
+      "swimming"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-18",
+    "title": "Jaguar Jaws Crush Turtle Shells",
+    "fact": "Jaguars possess the strongest bite force relative to body size of any big cat—strong enough to easily pierce an armored turtle shell or caiman skull!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1591824438708-ce405f36ba3d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/mammals/facts/jaguar",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #18",
+    "tags": [
+      "cats",
+      "jaguar",
+      "rainforest"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-19",
+    "title": "Dalmatian Puppies are Born Pure White",
+    "fact": "Every Dalmatian puppy is born completely snowy white! Their distinctive black or liver spots only begin developing around 2 weeks of age.",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/kids/article/Dalmatian/353034",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #19",
+    "tags": [
+      "dogs",
+      "dalmatian",
+      "puppies"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-20",
+    "title": "Cats Can Rotate Their Wrists",
+    "fact": "Cats have flexible clavicles (collarbones) that aren't connected to other bones. This allows them to squeeze through any opening that fits their head!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Tufts Veterinary School",
+    "sourceUrl": "https://vetmed.tufts.edu/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #20",
+    "tags": [
+      "cats",
+      "flexibility",
+      "agility"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-21",
+    "title": "Greyhound Speed Beats Cheetah Acceleration",
+    "fact": "While cheetahs have the highest top speed, greyhounds can reach 45 mph in just 6 strides and can sustain top sprinting speed much longer than a cheetah!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1579294800821-694d95e86143?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #21",
+    "tags": [
+      "dogs",
+      "greyhound",
+      "speed"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-22",
+    "title": "Black Panther Secret",
+    "fact": "A black panther isn't a separate species! It is simply a melanistic color variant of a leopard (in Africa/Asia) or jaguar (in the Americas), with spots still visible in bright sunlight!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1550953457-3f82218408a2?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian's National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #22",
+    "tags": [
+      "cats",
+      "panther",
+      "leopard"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-23",
+    "title": "Dogs Can Smell Human Emotions",
+    "fact": "Dogs can sniff the stress hormone cortisol in human breath and sweat with over 93% accuracy, allowing them to detect when someone is sad, scared, or excited!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "PLOS ONE",
+    "sourceUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274938",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #23",
+    "tags": [
+      "dogs",
+      "empathy",
+      "scent"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-24",
+    "title": "Maine Coon Tufted Snow Paws",
+    "fact": "The Maine Coon, one of the largest domestic cat breeds, has thick tufts of waterproof fur between its toes that keep its paws warm on icy Maine winters!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Cat Fanciers' Association",
+    "sourceUrl": "https://cfa.org/maine-coon-cat/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #24",
+    "tags": [
+      "cats",
+      "maine-coon",
+      "breeds"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-25",
+    "title": "Corgis Were Herding Legends",
+    "fact": "Welsh Corgis were bred to herd cattle by nipping at their heels. Their short legs were an evolutionary advantage, letting them duck underneath kicking hooves!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1612536057832-2ff7ead58194?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Kennel Club",
+    "sourceUrl": "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #25",
+    "tags": [
+      "dogs",
+      "corgi",
+      "herding"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-26",
+    "title": "Fennec Fox Giant Radar Ears",
+    "fact": "The desert Fennec Fox has huge 6-inch ears that dissipate intense Sahara desert heat and help it hear underground burrowing insects from yards away!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1516934024742-b461fba47600?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/mammals/facts/fennec-fox",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #26",
+    "tags": [
+      "dogs",
+      "canine",
+      "fennec-fox"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-27",
+    "title": "Cats Can Jump 6 Times Their Length",
+    "fact": "Thanks to powerful leg and back muscles and an elastic spine, domestic cats can launch themselves vertically up to six times their own body height in a single leap!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Cornell University",
+    "sourceUrl": "https://www.vet.cornell.edu/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #27",
+    "tags": [
+      "cats",
+      "jumping",
+      "physics"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-28",
+    "title": "Arctic Fox Fur Changes Color Seasonally",
+    "fact": "Arctic foxes sport snowy white coats in winter for stealth, but shed into a brown-and-gray camouflage coat during summer tundra thaws!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "World Wildlife Fund",
+    "sourceUrl": "https://www.worldwildlife.org/species/arctic-fox",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #28",
+    "tags": [
+      "dogs",
+      "arctic-fox",
+      "adaptation"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-29",
+    "title": "Lions Are The Only Social Cats",
+    "fact": "Lions are the only felids that live in family social structures called prides, consisting of related females, cubs, and a coalition of defending males!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "African Wildlife Foundation",
+    "sourceUrl": "https://www.awf.org/wildlife-conservation/lion",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #29",
+    "tags": [
+      "cats",
+      "lion",
+      "savanna"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-30",
+    "title": "Chihuahua Brain to Body Ratio",
+    "fact": "Relative to their tiny body size, Chihuahuas have one of the largest brain-to-body weight ratios among all dog breeds!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1541599540903-216a46ca1dc0?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #30",
+    "tags": [
+      "dogs",
+      "chihuahua",
+      "small-dogs"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-31",
+    "title": "Cats Taste Without Sweet Receptors",
+    "fact": "Cats are obligate carnivores and are one of the few mammals that lack functional sweet taste receptors—sugar means nothing to them!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Scientific American",
+    "sourceUrl": "https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #31",
+    "tags": [
+      "cats",
+      "taste",
+      "carnivore"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-32",
+    "title": "Border Collies Know Hundreds of Words",
+    "fact": "Famous Border Collie Chaser learned and remembered the names of over 1,022 unique toys, demonstrating language comprehension comparable to a toddler!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org/news/press/releases/2010/12/dog-words",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #32",
+    "tags": [
+      "dogs",
+      "border-collie",
+      "intelligence"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-33",
+    "title": "Sand Cat Cool Underground Den Dwellers",
+    "fact": "The tiny desert sand cat has thick fur on the bottoms of its foot pads so it can sprint across burning Sahara sands without getting scorched!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian's National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/animals/sand-cat",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #33",
+    "tags": [
+      "cats",
+      "sand-cat",
+      "desert"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-34",
+    "title": "Pugs Were Royal Guard Dogs in China",
+    "fact": "In ancient China, pugs were pampered companions to Chinese emperors and guarded by soldiers in royal palaces!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo Wildlife Alliance",
+    "sourceUrl": "https://animals.sandiegozoo.org/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #34",
+    "tags": [
+      "dogs",
+      "pug",
+      "history"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-35",
+    "title": "Ocelot Night Vision Secret",
+    "fact": "The rainforest ocelot has a reflective layer behind its retina called the tapetum lucidum that reflects light back through photoreceptors, multiplying night vision!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1561948955-570b270e7c36?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/animals/mammals/facts/ocelot",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #35",
+    "tags": [
+      "cats",
+      "ocelot",
+      "night-vision"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-36",
+    "title": "Siberian Huskies Have Dual Undercoats",
+    "fact": "Huskies have a dense undercoat and a water-shedding topcoat that insulates them down to temperatures as extreme as -60°F (-51°C)!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Kennel Club",
+    "sourceUrl": "https://www.akc.org/dog-breeds/siberian-husky/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #36",
+    "tags": [
+      "dogs",
+      "husky",
+      "snow"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-37",
+    "title": "Clouded Leopard Tree Acrobatics",
+    "fact": "Clouded leopards can rotate their ankles backwards, enabling them to climb down tree trunks head-first like squirrels and hang from branches by one hind foot!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo Wildlife Alliance",
+    "sourceUrl": "https://animals.sandiegozoo.org/animals/clouded-leopard",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #37",
+    "tags": [
+      "cats",
+      "clouded-leopard",
+      "climbing"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-38",
+    "title": "Golden Retrievers Soft Mouth Control",
+    "fact": "Golden Retrievers were bred with a 'soft mouth' trait, allowing them to gently carry an uncooked bird egg in their mouth without cracking the shell!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Golden Retriever Club of America",
+    "sourceUrl": "https://grca.org/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #38",
+    "tags": [
+      "dogs",
+      "golden-retriever",
+      "retriever"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-39",
+    "title": "Serval Huge Radar Ears and Jump",
+    "fact": "The African serval cat can leap 9 feet straight up into the air to snag flying birds mid-flight, pinpointing prey through tall grasses with giant dish-like ears!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "African Wildlife Foundation",
+    "sourceUrl": "https://www.awf.org/wildlife-conservation/serval",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #39",
+    "tags": [
+      "cats",
+      "serval",
+      "jumping"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-40",
+    "title": "Beagle Scent Center Size",
+    "fact": "A beagle's brain contains about 220 million scent receptors compared to roughly 5 million in humans—their olfactory processing center is 40 times larger!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "PBS Nature",
+    "sourceUrl": "https://www.pbs.org/wnet/nature/",
+    "date": "2026-09-19",
+    "badge": "Purr & Bark Haven #40",
+    "tags": [
+      "dogs",
+      "beagle",
+      "hound"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-41",
+    "title": "Spinosaurus was the Ocean Hunter Titan",
+    "fact": "Spinosaurus was up to 50 feet long—longer than T-Rex—and possessed a paddle-like tail and dense bones proving it hunted like a prehistoric river monster!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1525877442103-5dd52ac99e30?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/science/article/spinosaurus-dinosaur-river-monster",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #41",
+    "tags": [
+      "spinosaurus",
+      "fossils",
+      "carnivore"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-42",
+    "title": "T-Rex Bite Force Crushed Bones",
+    "fact": "Tyrannosaurus rex had a bone-splintering bite force of roughly 12,800 pounds—equivalent to the weight of an elephant sitting on its teeth!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1569793666141-86082c5a287c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Magazine",
+    "sourceUrl": "https://www.smithsonianmag.com/science-nature/the-tyrannosaurus-rexs-bone-crushing-bite-force-180963385/",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #42",
+    "tags": [
+      "t-rex",
+      "bite-force",
+      "cretaceous"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-43",
+    "title": "Velociraptor was Turkey-Sized and Feathered",
+    "fact": "Unlike the giant movie reptiles, real Velociraptors were about the size of a wild turkey and covered in aerodynamic feathers!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Museum of Natural History",
+    "sourceUrl": "https://www.amnh.org/explore/news-blogs/on-exhibit-posts/velociraptor-feathers",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #43",
+    "tags": [
+      "velociraptor",
+      "feathers",
+      "raptor"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-44",
+    "title": "Triceratops Had 800 Teeth in Rows",
+    "fact": "Triceratops had stacked rows of dental batteries containing up to 800 teeth that constantly replaced themselves as it chewed tough palm fronds!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Field Museum",
+    "sourceUrl": "https://www.fieldmuseum.org/blog/how-triceratops-chewed",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #44",
+    "tags": [
+      "triceratops",
+      "teeth",
+      "herbivore"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-45",
+    "title": "Ankylosaurus Club Tail",
+    "fact": "The heavy bony club at the end of an Ankylosaurus tail could swing with enough force to shatter the leg bones of a charging T-Rex!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1525877442103-5dd52ac99e30?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/kids/article/Ankylosaurus/352762",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #45",
+    "tags": [
+      "ankylosaurus",
+      "armor",
+      "defense"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-46",
+    "title": "Megalodon Had 7-Inch Serrated Teeth",
+    "fact": "The prehistoric giant shark Megalodon grew up to 60 feet long, with jaw spans wide enough to swallow two adult humans standing side-by-side!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Natural History Museum London",
+    "sourceUrl": "https://www.nhm.ac.uk/discover/megalodon-the-largest-shark-that-ever-lived.html",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #46",
+    "tags": [
+      "megalodon",
+      "sharks",
+      "extinct"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-47",
+    "title": "Argentinosaurus weighed as much as 14 Elephants",
+    "fact": "Argentinosaurus was a colossal titanosaur measuring over 115 feet long and weighing nearly 80 metric tons, shaking the ground with every step!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Paleobiology Database",
+    "sourceUrl": "https://paleobiodb.org/",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #47",
+    "tags": [
+      "argentinosaurus",
+      "titanosaur",
+      "giants"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-48",
+    "title": "Woolly Mammoths Thrived in Arctic Glaciers",
+    "fact": "Woolly mammoths had blood adapted with natural anti-freeze hemoglobin that kept oxygen flowing through their veins in sub-zero ice ages!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Nature Genetics",
+    "sourceUrl": "https://www.nature.com/articles/ng.555",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #48",
+    "tags": [
+      "mammoth",
+      "ice-age",
+      "extinct"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-49",
+    "title": "Pterosaurs Were Flying Reptiles, Not Dinosaurs",
+    "fact": "Pterosaurs like Quetzalcoatlus had wingspans up to 36 feet (the size of a small airplane!), but they were flying archosaurs, not true dinosaurs!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1569793666141-86082c5a287c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Insider",
+    "sourceUrl": "https://insider.si.edu/2012/05/pterosaur-flight/",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #49",
+    "tags": [
+      "pterosaur",
+      "flight",
+      "reptile"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-50",
+    "title": "Stegosaurus Brain Was the Size of a Walnut",
+    "fact": "Despite weighing nearly 5 tons and measuring 30 feet, Stegosaurus had a brain estimated at only 3 ounces—comparable to the size of a plum or walnut!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1525877442103-5dd52ac99e30?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Natural History Museum London",
+    "sourceUrl": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #50",
+    "tags": [
+      "stegosaurus",
+      "jurassic",
+      "plates"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-51",
+    "title": "Sabre-Toothed Smilodon Fangs Were 7 Inches",
+    "fact": "Smilodon fatalis possessed curved upper canines up to 7 inches long, designed for delivering precise fatal strikes to the jugular veins of prey!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "La Brea Tar Pits & Museum",
+    "sourceUrl": "https://tarpits.org/experience-tar-pits/smilodon",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #51",
+    "tags": [
+      "smilodon",
+      "ice-age",
+      "predator"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-52",
+    "title": "Brachiosaurus Nostrils Were on Its Forehead",
+    "fact": "Fossil skulls show Brachiosaurus had large nasal openings situated high atop its cranium, once leading scientists to mistakenly believe it lived underwater!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/kids/article/Brachiosaurus/352877",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #52",
+    "tags": [
+      "brachiosaurus",
+      "sauropod",
+      "fossils"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-53",
+    "title": "Parasaurolophus Horn Was a Musical Trombone",
+    "fact": "The 6-foot hollow bony crest on Parasaurolophus skull acted as an acoustic resonance chamber, creating deep foghorn-like vocal calls that echoed across miles!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Field Museum",
+    "sourceUrl": "https://www.fieldmuseum.org/",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #53",
+    "tags": [
+      "parasaurolophus",
+      "sound",
+      "crest"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-54",
+    "title": "Birds Are Living Avian Dinosaurs",
+    "fact": "Modern birds didn't just evolve from dinosaurs—taxonomically, every sparrow, eagle, and penguin IS a living theropod dinosaur!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1444464666168-49d633b86797?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "UC Berkeley Paleontology",
+    "sourceUrl": "https://ucmp.berkeley.edu/diapsids/avians.html",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #54",
+    "tags": [
+      "birds",
+      "evolution",
+      "theropod"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-55",
+    "title": "Archaeopteryx Feathered Missing Link",
+    "fact": "Discovered in 1861 in Germany, Archaeopteryx was the revolutionary fossil displaying sharp dinosaur teeth, a long bony tail, and bird-like flight wings!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1525877442103-5dd52ac99e30?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian National Museum of Natural History",
+    "sourceUrl": "https://naturalhistory.si.edu/",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #55",
+    "tags": [
+      "archaeopteryx",
+      "feathers",
+      "fossils"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-56",
+    "title": "Pachycephalosaurus Battering Ram Skull",
+    "fact": "Pachycephalosaurus had a solid bone dome on top of its skull nearly 9 inches thick, used for jousting battles or side-ramming rivals!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1569793666141-86082c5a287c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Museum of Natural History",
+    "sourceUrl": "https://www.amnh.org/",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #56",
+    "tags": [
+      "pachycephalosaurus",
+      "skull",
+      "cretaceous"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-57",
+    "title": "Microraptor Had Four Feathery Wings",
+    "fact": "Microraptor was a crow-sized feathered predator with long flight feathers on both its front arms AND hind legs, gliding through prehistoric treetops like a biplane!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Science Magazine",
+    "sourceUrl": "https://www.science.org/",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #57",
+    "tags": [
+      "microraptor",
+      "four-wings",
+      "gliding"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-58",
+    "title": "Giant Ground Sloth Megatherium Was Elephant-Sized",
+    "fact": "In prehistoric South America, Megatherium was a 20-foot ground sloth that could stand on its hind legs to pull whole tree branches down!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Natural History Museum",
+    "sourceUrl": "https://www.sdnhm.org/",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #58",
+    "tags": [
+      "ground-sloth",
+      "ice-age",
+      "megafauna"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-59",
+    "title": "Carnotaurus Bull Horns and Tiny Arms",
+    "fact": "The Carnotaurus of prehistoric Patagonia had two genuine bull-like horns above its eyes and arms so minuscule they couldn't even bend at the elbow!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1525877442103-5dd52ac99e30?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Natural History Museum London",
+    "sourceUrl": "https://www.nhm.ac.uk/discover/dino-directory/carnotaurus.html",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #59",
+    "tags": [
+      "carnotaurus",
+      "horns",
+      "theropod"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-60",
+    "title": "Dunkleosteus Armored Ocean Terror",
+    "fact": "Living 360 million years ago, Dunkleosteus was an armored placoderm fish whose self-sharpening bony jaw plates snapped shut with guillotine speed!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian National Museum of Natural History",
+    "sourceUrl": "https://naturalhistory.si.edu/",
+    "date": "2026-09-19",
+    "badge": "Prehistoric Discovery #60",
+    "tags": [
+      "dunkleosteus",
+      "devonian",
+      "armored-fish"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-61",
+    "title": "Blue Whale Heart is Big as a Bumper Car",
+    "fact": "The blue whale is the largest animal ever known to have lived. Its heart weighs over 400 pounds and its heartbeat can be detected two miles away!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Monterey Bay Aquarium",
+    "sourceUrl": "https://www.montereybayaquarium.org/animals/animals-a-to-z/blue-whale",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #61",
+    "tags": [
+      "blue-whale",
+      "giants",
+      "mammal"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-62",
+    "title": "Octopuses Have Three Hearts and Blue Blood",
+    "fact": "Two hearts pump blood to the gills, while the third pumps it to the organs. Their blood is rich in copper-based hemocyanin, making it bright blue!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Ocean",
+    "sourceUrl": "https://ocean.si.edu/ocean-life/invertebrates/octopuses-have-three-hearts-and-blue-blood",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #62",
+    "tags": [
+      "octopus",
+      "hearts",
+      "invertebrate"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-63",
+    "title": "Immortal Jellyfish Can Reset Its Age",
+    "fact": "Turritopsis dohrnii is biologically immortal! When injured or starving, it can revert its mature cells back into a juvenile polyp colony and restart its lifecycle!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Museum of Natural History",
+    "sourceUrl": "https://www.amnh.org/explore/news-blogs/on-exhibit-posts/immortal-jellyfish",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #63",
+    "tags": [
+      "jellyfish",
+      "immortality",
+      "biology"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-64",
+    "title": "Colossal Squid Eyes Are as Big as Dinner Plates",
+    "fact": "Living thousands of feet down in icy Antarctic depths, the colossal squid has eyes measuring 11 inches across—the largest eyes in the animal kingdom!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Te Papa Tongarewa Museum",
+    "sourceUrl": "https://www.tepapa.govt.nz/discover-collections/read-watch-play/colossal-squid",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #64",
+    "tags": [
+      "squid",
+      "deep-sea",
+      "eyes"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-65",
+    "title": "Sea Otters Hold Hands While Sleeping",
+    "fact": "Sea otters float on their backs in giant kelp forests and hold hands in 'rafts' so tidal currents don't drift them apart overnight!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1589656966895-2f33e7653819?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Monterey Bay Aquarium",
+    "sourceUrl": "https://www.montereybayaquarium.org/animals/animals-a-to-z/southern-sea-otter",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #65",
+    "tags": [
+      "sea-otter",
+      "kelp",
+      "mammals"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-66",
+    "title": "Mantis Shrimp Sonic Punch",
+    "fact": "The peacock mantis shrimp snaps its club-like raptorial appendages so fast that it creates underwater cavitation bubbles hotter than the surface of the sun!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/animals/invertebrates/facts/peacock-mantis-shrimp",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #66",
+    "tags": [
+      "mantis-shrimp",
+      "punch",
+      "crustacean"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-67",
+    "title": "Anglerfish Bioluminescent Headlight",
+    "fact": "Female deep-sea anglerfish have an illuminated lure called an esca packed with glowing symbiotic bacteria, attracting prey in pitch-black midnight zones!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "NOAA Ocean Exploration",
+    "sourceUrl": "https://oceanexplorer.noaa.gov/facts/anglerfish.html",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #67",
+    "tags": [
+      "anglerfish",
+      "deep-sea",
+      "bioluminescence"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-68",
+    "title": "Great White Shark Tooth Factory",
+    "fact": "A great white shark goes through as many as 20,000 to 30,000 teeth in its lifetime, replacing lost teeth in rows like a conveyor belt!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Florida Museum of Natural History",
+    "sourceUrl": "https://www.floridamuseum.ufl.edu/discover-fish/sharks/",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #68",
+    "tags": [
+      "shark",
+      "teeth",
+      "predator"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-69",
+    "title": "Clownfish Mucus Cloak",
+    "fact": "Clownfish produce a specialized thick sugar-based mucus coating that prevents sea anemone tentacles from firing venomous harpoon-like nematocysts at them!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/fish/facts/clownfish",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #69",
+    "tags": [
+      "clownfish",
+      "anemone",
+      "coral-reef"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-70",
+    "title": "Manta Rays Have the Largest Brain of Any Fish",
+    "fact": "Giant oceanic manta rays possess the highest brain-to-body mass ratio of all fish and have passed mirror self-recognition tests!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Scripps Institution of Oceanography",
+    "sourceUrl": "https://scripps.ucsd.edu/",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #70",
+    "tags": [
+      "manta-ray",
+      "intelligence",
+      "ocean"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-71",
+    "title": "Greenland Shark Can Live for 400 Years",
+    "fact": "Swimming slowly through icy Arctic oceans, Greenland sharks don't even reach reproductive maturity until they are 150 years old—making them the longest-lived vertebrates!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Science Magazine",
+    "sourceUrl": "https://www.science.org/doi/10.1126/science.aaf1703",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #71",
+    "tags": [
+      "greenland-shark",
+      "longevity",
+      "arctic"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-72",
+    "title": "Dolphins Sleep with One Eye Open",
+    "fact": "Dolphins practice unihemispheric slow-wave sleep: only half of their brain sleeps at a time so they can keep surfacing to breathe and watch for predators!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Woods Hole Oceanographic Institution",
+    "sourceUrl": "https://www.whoi.edu/",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #72",
+    "tags": [
+      "dolphin",
+      "sleep",
+      "marine-mammal"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-73",
+    "title": "Deep-Sea Gulper Eel Giant Mouth",
+    "fact": "The pelican eel or gulper eel can expand its pouch-like jaw to swallow fish significantly larger than its own body volume in nutrient-poor deep trenches!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Monterey Bay Aquarium Research Institute (MBARI)",
+    "sourceUrl": "https://www.mbari.org/animal/gulper-eel/",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #73",
+    "tags": [
+      "gulper-eel",
+      "abyss",
+      "deep-sea"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-74",
+    "title": "Orca Dialects Across Pods",
+    "fact": "Orca pods develop distinct acoustic vocal dialects passed down across matriarchal generations, just like regional human languages and accents!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Oceanic and Atmospheric Administration (NOAA)",
+    "sourceUrl": "https://www.fisheries.noaa.gov/species/killer-whale",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #74",
+    "tags": [
+      "orca",
+      "killer-whale",
+      "communication"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-75",
+    "title": "Mimic Octopus Shape-Shifts into 15 Species",
+    "fact": "The Indonesian mimic octopus can contort its body and change its color to impersonate venomous lionfish, banded sea snakes, and flat flounder!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Magazine",
+    "sourceUrl": "https://www.smithsonianmag.com/",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #75",
+    "tags": [
+      "mimic-octopus",
+      "camouflage",
+      "coral-reef"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-76",
+    "title": "Seahorses: Males Give Birth",
+    "fact": "Male seahorses possess a specialized brood pouch where the female deposits eggs. The male fertilizes, carries, and births hundreds of miniature seahorse fry!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/fish/facts/seahorse",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #76",
+    "tags": [
+      "seahorse",
+      "reproduction",
+      "ocean"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-77",
+    "title": "Bioluminescent Waves Caused by Dinoflagellates",
+    "fact": "Glow-in-the-dark blue ocean shorelines are caused by billions of microscopic single-celled dinoflagellates producing light when agitated by crashing waves!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Scripps Oceanography",
+    "sourceUrl": "https://scripps.ucsd.edu/news/bioluminescence",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #77",
+    "tags": [
+      "bioluminescence",
+      "plankton",
+      "waves"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-78",
+    "title": "Sperm Whale Click is Loudest Sound in Nature",
+    "fact": "Sperm whale echolocation clicks reach up to 230 decibels underwater—so intense they can travel thousands of miles and could vibrate human eardrums!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Scientific American",
+    "sourceUrl": "https://www.scientificamerican.com/",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #78",
+    "tags": [
+      "sperm-whale",
+      "echolocation",
+      "deep-sea"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-79",
+    "title": "Humpback Whale Bubble-Net Hunting",
+    "fact": "Humpback whales work in coordinated teams to blow spiraling cylinders of bubbles around schools of krill, trapping them like a shimmering fish net!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Marine Sanctuaries",
+    "sourceUrl": "https://sanctuaries.noaa.gov/",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #79",
+    "tags": [
+      "humpback-whale",
+      "bubble-net",
+      "cooperation"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-80",
+    "title": "Vampire Squid Cloak of Spikes",
+    "fact": "The vampire squid isn't a bloodsucker! It feeds on floating marine snow and turns itself inside out into a spiked umbrella cloak when threatened!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "MBARI",
+    "sourceUrl": "https://www.mbari.org/animal/vampire-squid/",
+    "date": "2026-09-19",
+    "badge": "Marine Wonder #80",
+    "tags": [
+      "vampire-squid",
+      "abyss",
+      "deep-sea"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-81",
+    "title": "Elephants Communicate Through Seismic Ground Vibrations",
+    "fact": "Elephants emit ultra-low-frequency infrasound rumbles that travel through the ground. Other herds detect these rumbles through sensitive nerve endings in their footpads up to 20 miles away!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian's National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/animals/asian-elephant",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #81",
+    "tags": [
+      "elephant",
+      "infrasound",
+      "communication"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-82",
+    "title": "Cheetahs Use Tails as Steering Rudders",
+    "fact": "At 70 mph, a cheetah's long muscular tail acts like a dynamic boat rudder, counteracting centrifugal force so it can make 90-degree sharp turns in mid-air!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo Wildlife Alliance",
+    "sourceUrl": "https://animals.sandiegozoo.org/animals/cheetah",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #82",
+    "tags": [
+      "cheetah",
+      "speed",
+      "agility"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-83",
+    "title": "Platypus Senses Electricity With Its Bill",
+    "fact": "The duck-billed platypus hunts underwater with its eyes, ears, and nostrils closed! Its bill contains 40,000 electroreceptors detecting the muscular electricity of shrimp!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Australian Museum",
+    "sourceUrl": "https://australian.museum/learn/animals/mammals/platypus/",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #83",
+    "tags": [
+      "platypus",
+      "electroreception",
+      "monotreme"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-84",
+    "title": "Sloths Poo Only Once a Week on the Ground",
+    "fact": "Sloths have such slow metabolic rates that they descend from their canopy treetops only once a week to poop, losing up to one-third of their body weight in a single visit!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Sloth Conservation Foundation",
+    "sourceUrl": "https://slothconservation.org/",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #84",
+    "tags": [
+      "sloth",
+      "rainforest",
+      "metabolism"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-85",
+    "title": "Red Pandas Have a False Thumb",
+    "fact": "Red pandas have an elongated wrist bone called a radial sesamoid that acts as a sixth digit, allowing them to grip bamboo stalks with incredible precision!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "World Wildlife Fund",
+    "sourceUrl": "https://www.worldwildlife.org/species/red-panda",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #85",
+    "tags": [
+      "red-panda",
+      "bamboo",
+      "anatomy"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-86",
+    "title": "Giraffes Have 20-Inch Purple Prehensile Tongues",
+    "fact": "A giraffe's tongue is up to 21 inches long and colored deep purple-black with heavy melanin pigmentation to protect it from sunburn as it strips acacia thorns!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1538099130811-745e64318258?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/mammals/facts/giraffe",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #86",
+    "tags": [
+      "giraffe",
+      "tongue",
+      "savanna"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-87",
+    "title": "Wombats Poop in Cubes",
+    "fact": "Wombats are the only animals in the world that produce cubic feces! The horizontal groove elasticity of their intestines molds the poop into cubes that won't roll off rocks!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Science Advances",
+    "sourceUrl": "https://www.science.org/doi/10.1126/sciadv.aau7767",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #87",
+    "tags": [
+      "wombat",
+      "marsupial",
+      "australia"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-88",
+    "title": "Otters Have 1 Million Hairs Per Square Inch",
+    "fact": "Sea otters don't have blubber; instead, they have the densest fur in the animal kingdom—up to 1,000,000 hairs per square inch, trapping a layer of dry insulating air!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1589656966895-2f33e7653819?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Monterey Bay Aquarium",
+    "sourceUrl": "https://www.montereybayaquarium.org/",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #88",
+    "tags": [
+      "otter",
+      "fur",
+      "adaptation"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-89",
+    "title": "Pangolins Have Keratin Armor Plates",
+    "fact": "Pangolins are the only mammals covered in tough overlapping scales made of keratin (the same protein in human fingernails), rolling into an impenetrable armored ball!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "World Wildlife Fund",
+    "sourceUrl": "https://www.worldwildlife.org/species/pangolin",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #89",
+    "tags": [
+      "pangolin",
+      "armor",
+      "conservation"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-90",
+    "title": "Bats Eat 1,200 Mosquitoes an Hour",
+    "fact": "A single little brown bat can catch and consume up to 1,200 mosquito-sized insects in just sixty minutes, acting as vital ecological pest controllers!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Bat Conservation International",
+    "sourceUrl": "https://www.batcon.org/",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #90",
+    "tags": [
+      "bat",
+      "echolocation",
+      "night"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-91",
+    "title": "Kangaroo Pouches Act as Incubators",
+    "fact": "When a baby kangaroo (joey) is born, it is the size of a jellybean! It crawls blind through its mother's fur into the pouch to nurse for several months.",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo Wildlife Alliance",
+    "sourceUrl": "https://animals.sandiegozoo.org/animals/kangaroo",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #91",
+    "tags": [
+      "kangaroo",
+      "joey",
+      "marsupial"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-92",
+    "title": "Honey Badgers Can Shrug Off Cobra Venom",
+    "fact": "Honey badgers have thick rubbery skin resistant to machetes and bee stings, plus a specialized mutation in their nicotinic acetylcholine receptors that neutralizes snake venom!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Biochimie / NCBI",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25797598/",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #92",
+    "tags": [
+      "honey-badger",
+      "immunity",
+      "savanna"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-93",
+    "title": "Gorillas Build Fresh Beds Every Single Night",
+    "fact": "Wild gorillas build a brand new nest out of fresh leaves and branches every evening, and even weave comfortable pillows for their head!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Dian Fossey Gorilla Fund",
+    "sourceUrl": "https://gorillafund.org/",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #93",
+    "tags": [
+      "gorilla",
+      "primates",
+      "nests"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-94",
+    "title": "Meerkats Have Built-in Sunglasses",
+    "fact": "The dark patches around a meerkat's eyes absorb glaring desert sunlight like natural sunglasses, allowing them to spot aerial eagles soaring straight overhead!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1516934024742-b461fba47600?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/mammals/facts/meerkat",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #94",
+    "tags": [
+      "meerkat",
+      "desert",
+      "eyes"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-95",
+    "title": "Hippo Sweat is Natural Pink Sunscreen",
+    "fact": "Hippos secrete a reddish-pink oily liquid called 'blood sweat' that contains hipposudoric acid—an all-natural moisturizer, sunblock, and antibiotic!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Nature",
+    "sourceUrl": "https://www.nature.com/articles/429363a",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #95",
+    "tags": [
+      "hippo",
+      "sunscreen",
+      "river"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-96",
+    "title": "Polar Bears Have Black Skin and Clear Fur",
+    "fact": "Underneath their white camouflage, polar bears have pitch-black skin to absorb solar radiation! Their fur strands are actually clear, hollow optical fibers!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1588167056547-b847849c0ea7?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Polar Bears International",
+    "sourceUrl": "https://polarbearsinternational.org/",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #96",
+    "tags": [
+      "polar-bear",
+      "arctic",
+      "camouflage"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-97",
+    "title": "Beavers Teeth Never Stop Growing and Contain Iron",
+    "fact": "Beaver teeth are infused with real iron, giving their enamel a vibrant orange color and making them hard enough to chop through hardwood oak trunks!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1589656966895-2f33e7653819?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Magazine",
+    "sourceUrl": "https://www.smithsonianmag.com/",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #97",
+    "tags": [
+      "beaver",
+      "teeth",
+      "engineers"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-98",
+    "title": "Chimpanzees Teach Each Other Tool Use",
+    "fact": "Wild chimpanzee communities use specialized twigs to fish for termites, stone hammers to crack nuts, and pass these traditions down culturally to their offspring!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Jane Goodall Institute",
+    "sourceUrl": "https://janegoodall.org/",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #98",
+    "tags": [
+      "chimpanzee",
+      "tools",
+      "culture"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-99",
+    "title": "Armadillos Always Give Birth to Identical Quadruplets",
+    "fact": "Nine-banded armadillos reproduce via polyembryony: a single fertilized egg consistently divides into four genetically identical embryos every time!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #99",
+    "tags": [
+      "armadillo",
+      "genetics",
+      "armor"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-100",
+    "title": "Zebra Stripes Dazzle Biting Flies",
+    "fact": "Biologists discovered that zebra stripes polarize light in a way that disrupts the optical targeting systems of bloodsucking tsetse and horse flies!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1538099130811-745e64318258?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Royal Society Open Science",
+    "sourceUrl": "https://royalsocietypublishing.org/doi/10.1098/rsos.191535",
+    "date": "2026-09-19",
+    "badge": "Savanna & Forest #100",
+    "tags": [
+      "zebra",
+      "stripes",
+      "defense"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-101",
+    "title": "Chameleons Move Eyes 360 Degrees Independently",
+    "fact": "A chameleon can scan two completely different objects simultaneously in 360-degree panoramic vision, locking together only when zeroing in on a target insect!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/animals/reptiles/facts/chameleons",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #101",
+    "tags": [
+      "chameleon",
+      "vision",
+      "reptile"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-102",
+    "title": "Axolotls Can Regenerate Entire Limbs and Organs",
+    "fact": "The Mexican axolotl salamander can regenerate lost limbs, tail, spinal cord, heart tissues, and even parts of its brain without any scar tissue!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Harvard Stem Cell Institute",
+    "sourceUrl": "https://hsci.harvard.edu/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #102",
+    "tags": [
+      "axolotl",
+      "regeneration",
+      "amphibian"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-103",
+    "title": "Komodo Dragons Have Venom Glands",
+    "fact": "Komodo dragons don't rely on bacteria—they have specialized venom glands in their lower jaw that secrete proteins preventing blood clotting and inducing shock!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/science/article/komodo-dragons-kill-with-venom-not-bacteria",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #103",
+    "tags": [
+      "komodo-dragon",
+      "venom",
+      "indonesia"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-104",
+    "title": "Praying Mantis Can Turn Head 180 Degrees",
+    "fact": "The praying mantis is the only insect in the animal kingdom capable of turning its head 180 degrees to look over its shoulder while hunting!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo Wildlife Alliance",
+    "sourceUrl": "https://animals.sandiegozoo.org/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #104",
+    "tags": [
+      "praying-mantis",
+      "insects",
+      "predator"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-105",
+    "title": "Gecko Toe Pads Use Van der Waals Physics",
+    "fact": "Geckos can walk across smooth glass ceilings because their toe pads are lined with millions of microscopic hairs called setae, harnessing intermolecular Van der Waals forces!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "UC Berkeley News",
+    "sourceUrl": "https://news.berkeley.edu/2002/08/27_gecko/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #105",
+    "tags": [
+      "gecko",
+      "physics",
+      "climbing"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-106",
+    "title": "Honeybees Dance to Give GPS Coordinates",
+    "fact": "Honeybees perform a 'waggle dance' inside the dark hive that communicates the exact angle relative to the sun and distance in meters to flower nectar fields!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Nobel Prize in Physiology / Karl von Frisch",
+    "sourceUrl": "https://www.nobelprize.org/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #106",
+    "tags": [
+      "honeybee",
+      "waggle-dance",
+      "insects"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-107",
+    "title": "Poison Dart Frog Toxicity Comes From Diet",
+    "fact": "Poison dart frogs in zoos are completely harmless! In the wild, their deadly batrachotoxin is synthesized from consuming toxic jungle mites and formicine ants.",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian's National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/animals/golden-poison-frog",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #107",
+    "tags": [
+      "poison-dart-frog",
+      "amphibian",
+      "rainforest"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-108",
+    "title": "Bombardier Beetles Shoot Boiling Liquid Explosions",
+    "fact": "When threatened, bombardier beetles mix hydroquinones and hydrogen peroxide inside an abdominal blast chamber, spraying a 212°F (100°C) noxious boiling jet!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Science Magazine",
+    "sourceUrl": "https://www.science.org/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #108",
+    "tags": [
+      "bombardier-beetle",
+      "defense",
+      "insects"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-109",
+    "title": "Crocodile Bite Force Shuts with 3,700 Pounds",
+    "fact": "Saltwater crocodiles have the strongest bite force measured in living animals, but their jaw-opening muscles are so weak a human can hold their snout shut with one hand!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Florida State University / Gregory Erickson",
+    "sourceUrl": "https://news.fsu.edu/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #109",
+    "tags": [
+      "crocodile",
+      "bite-force",
+      "reptile"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-110",
+    "title": "Monarch Butterfly 3,000-Mile Migration",
+    "fact": "Monarch butterflies migrate thousands of miles from Canada to specific fir forests in central Mexico, using an internal sun compass and magnetic antennae!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "World Wildlife Fund",
+    "sourceUrl": "https://www.worldwildlife.org/species/monarch-butterfly",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #110",
+    "tags": [
+      "monarch-butterfly",
+      "migration",
+      "insects"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-111",
+    "title": "Dragonflies Have 95% Hunting Success Rate",
+    "fact": "Dragonflies are the most successful predators on Earth! With four independently moving wings and 30,000 eye lenses, they capture 95% of the prey they target!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #111",
+    "tags": [
+      "dragonfly",
+      "predator",
+      "flight"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-112",
+    "title": "Galapagos Giant Tortoises Live Past 150 Years",
+    "fact": "Galapagos giant tortoises can weigh over 500 pounds and survive for up to a whole year without food or drinking water by metabolizing stored fat!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Galapagos Conservancy",
+    "sourceUrl": "https://www.galapagos.org/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #112",
+    "tags": [
+      "tortoise",
+      "galapagos",
+      "longevity"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-113",
+    "title": "Horned Lizards Shoot Blood from Eyes",
+    "fact": "When confronted by coyotes or bobcats, the Texas horned lizard can restrict blood flow in its head and squirt a foul-tasting stream of blood from its eye sockets up to 5 feet!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Magazine",
+    "sourceUrl": "https://www.smithsonianmag.com/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #113",
+    "tags": [
+      "horned-lizard",
+      "defense",
+      "desert"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-114",
+    "title": "Leafcutter Ants Are Earth's First Farmers",
+    "fact": "Leafcutter ants don't eat leaves—they chop them into pulp to fertilize underground fungus gardens, farming crops millions of years before humans invented agriculture!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Museum of Natural History",
+    "sourceUrl": "https://www.amnh.org/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #114",
+    "tags": [
+      "leafcutter-ants",
+      "farming",
+      "insects"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-115",
+    "title": "Sea Turtles Navigate by Earth's Magnetic Map",
+    "fact": "Baby sea turtles imprint on the Earth's geomagnetic signature of their birth beach and return to the exact same beach decades later to lay eggs!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Sea Turtle Conservancy",
+    "sourceUrl": "https://conserveturtles.org/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #115",
+    "tags": [
+      "sea-turtle",
+      "navigation",
+      "ocean"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-116",
+    "title": "Fireflies Produce Cold Light",
+    "fact": "Firefly bioluminescence is 100% efficient! Unlike lightbulbs which lose 90% of their energy as heat, fireflies produce light through chemical reactions with zero wasted heat.",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/invertebrates/facts/firefly",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #116",
+    "tags": [
+      "firefly",
+      "bioluminescence",
+      "summer"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-117",
+    "title": "Basilisk Lizard Runs on Water",
+    "fact": "The Jesus Christ Lizard (Green Basilisk) has fringed toes that trap air pockets, allowing it to sprint upright across water surfaces at 5 feet per second!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/animals/reptiles/facts/green-basilisk-lizard",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #117",
+    "tags": [
+      "basilisk-lizard",
+      "water-running",
+      "reptile"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-118",
+    "title": "Tarantula Hawk Wasp Super Sting",
+    "fact": "The Tarantula Hawk wasp has one of the most painful insect stings in the world, paralyzing giant desert tarantulas to serve as nurseries for its larvae!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Park Service",
+    "sourceUrl": "https://www.nps.gov/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #118",
+    "tags": [
+      "tarantula-hawk",
+      "wasp",
+      "desert"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-119",
+    "title": "Snakes Smell With Their Tongue Tips",
+    "fact": "Snakes flick their forked tongue to sample airborne scent particles and insert the tips into the Jacobson's organ on the roof of their mouth for 3D scent tracking!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #119",
+    "tags": [
+      "snake",
+      "tongue",
+      "scent"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-120",
+    "title": "Atlas Moth Has Snake Heads on Wingtips",
+    "fact": "The giant Atlas Moth (with a 10-inch wingspan!) has wingtip patterns that look precisely like venomous cobra heads, deterring birds from attacking!",
+    "category": "reptiles",
+    "categoryLabel": "Reptiles & Insects 🦎",
+    "mediaUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Natural History Museum London",
+    "sourceUrl": "https://www.nhm.ac.uk/",
+    "date": "2026-09-19",
+    "badge": "Cold-Blooded Wonders #120",
+    "tags": [
+      "atlas-moth",
+      "mimicry",
+      "insects"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-121",
+    "title": "A Dog's Nose Print is Unique",
+    "fact": "Just like human fingerprints, every single dog's nose print is completely unique and can be used for biometric identification!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/mammals/facts/domestic-dog",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #121",
+    "tags": [
+      "dogs",
+      "senses",
+      "nose"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-122",
+    "title": "Cat Whisker Radar",
+    "fact": "A cat's whiskers aren't just hairs—they are ultra-sensitive touch receptors called vibrissae that can detect microscopic air currents!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Magazine",
+    "sourceUrl": "https://www.smithsonianmag.com/science-nature/why-cats-have-whiskers-180974895/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #122",
+    "tags": [
+      "cats",
+      "whiskers",
+      "biology"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-123",
+    "title": "Dogs Sense Earth's Magnetic Field",
+    "fact": "Dogs can sense the Earth's geomagnetic field and often use it as a natural compass when orienting themselves or navigating!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1534361960057-19889db9621e?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "PBS NOVA",
+    "sourceUrl": "https://www.pbs.org/wgbh/nova/article/dogs-magnetic-field/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #123",
+    "tags": [
+      "dogs",
+      "navigation",
+      "science"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-124",
+    "title": "Purring Vibrations Heal Bones",
+    "fact": "A cat's purr vibrates between 25 and 140 Hertz. Frequencies in this exact range have been shown in medical studies to stimulate bone regeneration and tissue repair!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Scientific American",
+    "sourceUrl": "https://www.scientificamerican.com/article/why-do-cats-purr/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #124",
+    "tags": [
+      "cats",
+      "purring",
+      "health"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-125",
+    "title": "Dog Hearing Range vs Humans",
+    "fact": "Dogs can hear frequencies up to 45,000 Hertz, whereas humans can only hear up to 20,000 Hertz. They can also move each ear independently!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Kennel Club",
+    "sourceUrl": "https://www.akc.org/expert-advice/health/how-do-dogs-hear/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #125",
+    "tags": [
+      "dogs",
+      "hearing",
+      "ears"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-126",
+    "title": "Cheetahs Cannot Roar",
+    "fact": "Unlike lions and tigers, cheetahs belong to the subfamily Felinae. They cannot roar; instead, they purr, chirrup like birds, and hiss!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo Wildlife Alliance",
+    "sourceUrl": "https://animals.sandiegozoo.org/animals/cheetah",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #126",
+    "tags": [
+      "cats",
+      "cheetah",
+      "wild-cats"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-127",
+    "title": "Dog Tail Language",
+    "fact": "A dog wagging its tail to the right indicates positive, happy emotions, while a wag to the left reflects anxiety or hesitation due to left-brain vs right-brain processing!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Current Biology / Cell",
+    "sourceUrl": "https://www.cell.com/current-biology/fulltext/S0960-9822(13)01143-3",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #127",
+    "tags": [
+      "dogs",
+      "communication",
+      "behavior"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-128",
+    "title": "Cats Have a Third Eyelid",
+    "fact": "Cats possess a translucent third eyelid called a nictitating membrane that sweeps horizontally across the eye to protect and lubricate the cornea!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1561948955-570b270e7c36?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Cornell Feline Health Center",
+    "sourceUrl": "https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/feline-eyes",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #128",
+    "tags": [
+      "cats",
+      "eyes",
+      "anatomy"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-129",
+    "title": "Bloodhound Scents in Court",
+    "fact": "A Bloodhound's scenting ability is so extraordinarily acute and reliable that their tracking evidence is legally admissible in courtrooms!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1520087619250-584c0ebd45e8?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/kids/article/Bloodhound/352864",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #129",
+    "tags": [
+      "dogs",
+      "bloodhound",
+      "scent"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-130",
+    "title": "Fierce Snow Leopard Paws",
+    "fact": "Snow leopards have huge, wide, fur-covered paws that act like built-in snowshoes, distributing their weight evenly across deep Himalayan snowdrifts!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1588167056547-b847849c0ea7?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "World Wildlife Fund",
+    "sourceUrl": "https://www.worldwildlife.org/species/snow-leopard",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #130",
+    "tags": [
+      "cats",
+      "snow-leopard",
+      "mountains"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-131",
+    "title": "Dogs Dream Just Like Us",
+    "fact": "Brain scans during dog REM sleep show the same neural patterns as humans. They dream about chasing balls, playing with Zoe, and greeting their favorite people!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/animals/article/do-dogs-dream",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #131",
+    "tags": [
+      "dogs",
+      "sleep",
+      "dreams"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-132",
+    "title": "Cats Have 32 Muscles in Each Ear",
+    "fact": "A domestic cat has 32 separate muscles controlling each pinna (outer ear), allowing them to swivel their ears 180 degrees like satellite dishes!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1548802673-380ab8ebc7b7?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo",
+    "sourceUrl": "https://animals.sandiegozoo.org/animals/domestic-cat",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #132",
+    "tags": [
+      "cats",
+      "ears",
+      "agility"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-133",
+    "title": "African Wild Dog Vote by Sneezing",
+    "fact": "African wild dogs hold democratic 'rallies' before hunting and vote on whether to launch a pack chase by sneezing! More sneezes mean consensus!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Royal Society Publishing",
+    "sourceUrl": "https://royalsocietypublishing.org/doi/10.1098/rspb.2017.0347",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #133",
+    "tags": [
+      "dogs",
+      "wild-dogs",
+      "africa"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-134",
+    "title": "Tiger Striped Skin Secret",
+    "fact": "Tigers don't just have striped fur—their skin underneath also has the exact same stripe pattern tattooed into the epidermis!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1508817628294-5a453fa0b8fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian's National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/animals/tiger",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #134",
+    "tags": [
+      "cats",
+      "tiger",
+      "big-cats"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-135",
+    "title": "Basenji: The Barkless Dog",
+    "fact": "The ancient African Basenji dog doesn't bark because of its unusually shaped larynx. Instead, it makes a melodious yodel-like sound called a 'barroo'!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Kennel Club",
+    "sourceUrl": "https://www.akc.org/dog-breeds/basenji/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #135",
+    "tags": [
+      "dogs",
+      "basenji",
+      "breeds"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-136",
+    "title": "Cats Spend 50% of Waking Time Grooming",
+    "fact": "Cats spend almost half their awake hours grooming. Their tongue has tiny backward-facing keratin barbs called papillae that act like a hairbrush and air-conditioner!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1513360309081-38a0c5868b40?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Proceedings of the National Academy of Sciences (PNAS)",
+    "sourceUrl": "https://www.pnas.org/doi/10.1073/pnas.1812119115",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #136",
+    "tags": [
+      "cats",
+      "grooming",
+      "tongue"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-137",
+    "title": "Newfoundland Water Dogs Have Webbed Paws",
+    "fact": "Newfoundland dogs have webbed feet and a water-resistant double coat, making them legendary water rescue lifeguards in maritime history!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Canadian Kennel Club",
+    "sourceUrl": "https://www.ckc.ca/en/Choosing-a-Dog/Choosing-a-Breed/Working-Dogs/Newfoundland",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #137",
+    "tags": [
+      "dogs",
+      "newfoundland",
+      "swimming"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-138",
+    "title": "Jaguar Jaws Crush Turtle Shells",
+    "fact": "Jaguars possess the strongest bite force relative to body size of any big cat—strong enough to easily pierce an armored turtle shell or caiman skull!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1591824438708-ce405f36ba3d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/mammals/facts/jaguar",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #138",
+    "tags": [
+      "cats",
+      "jaguar",
+      "rainforest"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-139",
+    "title": "Dalmatian Puppies are Born Pure White",
+    "fact": "Every Dalmatian puppy is born completely snowy white! Their distinctive black or liver spots only begin developing around 2 weeks of age.",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/kids/article/Dalmatian/353034",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #139",
+    "tags": [
+      "dogs",
+      "dalmatian",
+      "puppies"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-140",
+    "title": "Cats Can Rotate Their Wrists",
+    "fact": "Cats have flexible clavicles (collarbones) that aren't connected to other bones. This allows them to squeeze through any opening that fits their head!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Tufts Veterinary School",
+    "sourceUrl": "https://vetmed.tufts.edu/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #140",
+    "tags": [
+      "cats",
+      "flexibility",
+      "agility"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-141",
+    "title": "Greyhound Speed Beats Cheetah Acceleration",
+    "fact": "While cheetahs have the highest top speed, greyhounds can reach 45 mph in just 6 strides and can sustain top sprinting speed much longer than a cheetah!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1579294800821-694d95e86143?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Guinness World Records",
+    "sourceUrl": "https://www.guinnessworldrecords.com/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #141",
+    "tags": [
+      "dogs",
+      "greyhound",
+      "speed"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-142",
+    "title": "Black Panther Secret",
+    "fact": "A black panther isn't a separate species! It is simply a melanistic color variant of a leopard (in Africa/Asia) or jaguar (in the Americas), with spots still visible in bright sunlight!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1550953457-3f82218408a2?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian's National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #142",
+    "tags": [
+      "cats",
+      "panther",
+      "leopard"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-143",
+    "title": "Dogs Can Smell Human Emotions",
+    "fact": "Dogs can sniff the stress hormone cortisol in human breath and sweat with over 93% accuracy, allowing them to detect when someone is sad, scared, or excited!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "PLOS ONE",
+    "sourceUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274938",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #143",
+    "tags": [
+      "dogs",
+      "empathy",
+      "scent"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-144",
+    "title": "Maine Coon Tufted Snow Paws",
+    "fact": "The Maine Coon, one of the largest domestic cat breeds, has thick tufts of waterproof fur between its toes that keep its paws warm on icy Maine winters!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Cat Fanciers' Association",
+    "sourceUrl": "https://cfa.org/maine-coon-cat/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #144",
+    "tags": [
+      "cats",
+      "maine-coon",
+      "breeds"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-145",
+    "title": "Corgis Were Herding Legends",
+    "fact": "Welsh Corgis were bred to herd cattle by nipping at their heels. Their short legs were an evolutionary advantage, letting them duck underneath kicking hooves!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1612536057832-2ff7ead58194?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Kennel Club",
+    "sourceUrl": "https://www.akc.org/dog-breeds/pembroke-welsh-corgi/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #145",
+    "tags": [
+      "dogs",
+      "corgi",
+      "herding"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-146",
+    "title": "Fennec Fox Giant Radar Ears",
+    "fact": "The desert Fennec Fox has huge 6-inch ears that dissipate intense Sahara desert heat and help it hear underground burrowing insects from yards away!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1516934024742-b461fba47600?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/mammals/facts/fennec-fox",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #146",
+    "tags": [
+      "dogs",
+      "canine",
+      "fennec-fox"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-147",
+    "title": "Cats Can Jump 6 Times Their Length",
+    "fact": "Thanks to powerful leg and back muscles and an elastic spine, domestic cats can launch themselves vertically up to six times their own body height in a single leap!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Cornell University",
+    "sourceUrl": "https://www.vet.cornell.edu/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #147",
+    "tags": [
+      "cats",
+      "jumping",
+      "physics"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-148",
+    "title": "Arctic Fox Fur Changes Color Seasonally",
+    "fact": "Arctic foxes sport snowy white coats in winter for stealth, but shed into a brown-and-gray camouflage coat during summer tundra thaws!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "World Wildlife Fund",
+    "sourceUrl": "https://www.worldwildlife.org/species/arctic-fox",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #148",
+    "tags": [
+      "dogs",
+      "arctic-fox",
+      "adaptation"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-149",
+    "title": "Lions Are The Only Social Cats",
+    "fact": "Lions are the only felids that live in family social structures called prides, consisting of related females, cubs, and a coalition of defending males!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "African Wildlife Foundation",
+    "sourceUrl": "https://www.awf.org/wildlife-conservation/lion",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #149",
+    "tags": [
+      "cats",
+      "lion",
+      "savanna"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-150",
+    "title": "Chihuahua Brain to Body Ratio",
+    "fact": "Relative to their tiny body size, Chihuahuas have one of the largest brain-to-body weight ratios among all dog breeds!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1541599540903-216a46ca1dc0?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #150",
+    "tags": [
+      "dogs",
+      "chihuahua",
+      "small-dogs"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-151",
+    "title": "Cats Taste Without Sweet Receptors",
+    "fact": "Cats are obligate carnivores and are one of the few mammals that lack functional sweet taste receptors—sugar means nothing to them!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Scientific American",
+    "sourceUrl": "https://www.scientificamerican.com/article/strange-but-true-cats-cannot-taste-sweets/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #151",
+    "tags": [
+      "cats",
+      "taste",
+      "carnivore"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-152",
+    "title": "Border Collies Know Hundreds of Words",
+    "fact": "Famous Border Collie Chaser learned and remembered the names of over 1,022 unique toys, demonstrating language comprehension comparable to a toddler!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Psychological Association",
+    "sourceUrl": "https://www.apa.org/news/press/releases/2010/12/dog-words",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #152",
+    "tags": [
+      "dogs",
+      "border-collie",
+      "intelligence"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-153",
+    "title": "Sand Cat Cool Underground Den Dwellers",
+    "fact": "The tiny desert sand cat has thick fur on the bottoms of its foot pads so it can sprint across burning Sahara sands without getting scorched!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian's National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/animals/sand-cat",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #153",
+    "tags": [
+      "cats",
+      "sand-cat",
+      "desert"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-154",
+    "title": "Pugs Were Royal Guard Dogs in China",
+    "fact": "In ancient China, pugs were pampered companions to Chinese emperors and guarded by soldiers in royal palaces!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo Wildlife Alliance",
+    "sourceUrl": "https://animals.sandiegozoo.org/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #154",
+    "tags": [
+      "dogs",
+      "pug",
+      "history"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-155",
+    "title": "Ocelot Night Vision Secret",
+    "fact": "The rainforest ocelot has a reflective layer behind its retina called the tapetum lucidum that reflects light back through photoreceptors, multiplying night vision!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1561948955-570b270e7c36?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/animals/mammals/facts/ocelot",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #155",
+    "tags": [
+      "cats",
+      "ocelot",
+      "night-vision"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-156",
+    "title": "Siberian Huskies Have Dual Undercoats",
+    "fact": "Huskies have a dense undercoat and a water-shedding topcoat that insulates them down to temperatures as extreme as -60°F (-51°C)!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Kennel Club",
+    "sourceUrl": "https://www.akc.org/dog-breeds/siberian-husky/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #156",
+    "tags": [
+      "dogs",
+      "husky",
+      "snow"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-157",
+    "title": "Clouded Leopard Tree Acrobatics",
+    "fact": "Clouded leopards can rotate their ankles backwards, enabling them to climb down tree trunks head-first like squirrels and hang from branches by one hind foot!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo Wildlife Alliance",
+    "sourceUrl": "https://animals.sandiegozoo.org/animals/clouded-leopard",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #157",
+    "tags": [
+      "cats",
+      "clouded-leopard",
+      "climbing"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-158",
+    "title": "Golden Retrievers Soft Mouth Control",
+    "fact": "Golden Retrievers were bred with a 'soft mouth' trait, allowing them to gently carry an uncooked bird egg in their mouth without cracking the shell!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Golden Retriever Club of America",
+    "sourceUrl": "https://grca.org/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #158",
+    "tags": [
+      "dogs",
+      "golden-retriever",
+      "retriever"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-159",
+    "title": "Serval Huge Radar Ears and Jump",
+    "fact": "The African serval cat can leap 9 feet straight up into the air to snag flying birds mid-flight, pinpointing prey through tall grasses with giant dish-like ears!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "African Wildlife Foundation",
+    "sourceUrl": "https://www.awf.org/wildlife-conservation/serval",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #159",
+    "tags": [
+      "cats",
+      "serval",
+      "jumping"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-160",
+    "title": "Beagle Scent Center Size",
+    "fact": "A beagle's brain contains about 220 million scent receptors compared to roughly 5 million in humans—their olfactory processing center is 40 times larger!",
+    "category": "cats-dogs",
+    "categoryLabel": "Cats & Dogs 🐾",
+    "mediaUrl": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "PBS Nature",
+    "sourceUrl": "https://www.pbs.org/wnet/nature/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #160",
+    "tags": [
+      "dogs",
+      "beagle",
+      "hound"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-161",
+    "title": "Spinosaurus was the Ocean Hunter Titan",
+    "fact": "Spinosaurus was up to 50 feet long—longer than T-Rex—and possessed a paddle-like tail and dense bones proving it hunted like a prehistoric river monster!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1525877442103-5dd52ac99e30?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/science/article/spinosaurus-dinosaur-river-monster",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #161",
+    "tags": [
+      "spinosaurus",
+      "fossils",
+      "carnivore"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-162",
+    "title": "T-Rex Bite Force Crushed Bones",
+    "fact": "Tyrannosaurus rex had a bone-splintering bite force of roughly 12,800 pounds—equivalent to the weight of an elephant sitting on its teeth!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1569793666141-86082c5a287c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Magazine",
+    "sourceUrl": "https://www.smithsonianmag.com/science-nature/the-tyrannosaurus-rexs-bone-crushing-bite-force-180963385/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #162",
+    "tags": [
+      "t-rex",
+      "bite-force",
+      "cretaceous"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-163",
+    "title": "Velociraptor was Turkey-Sized and Feathered",
+    "fact": "Unlike the giant movie reptiles, real Velociraptors were about the size of a wild turkey and covered in aerodynamic feathers!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Museum of Natural History",
+    "sourceUrl": "https://www.amnh.org/explore/news-blogs/on-exhibit-posts/velociraptor-feathers",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #163",
+    "tags": [
+      "velociraptor",
+      "feathers",
+      "raptor"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-164",
+    "title": "Triceratops Had 800 Teeth in Rows",
+    "fact": "Triceratops had stacked rows of dental batteries containing up to 800 teeth that constantly replaced themselves as it chewed tough palm fronds!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Field Museum",
+    "sourceUrl": "https://www.fieldmuseum.org/blog/how-triceratops-chewed",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #164",
+    "tags": [
+      "triceratops",
+      "teeth",
+      "herbivore"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-165",
+    "title": "Ankylosaurus Club Tail",
+    "fact": "The heavy bony club at the end of an Ankylosaurus tail could swing with enough force to shatter the leg bones of a charging T-Rex!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1525877442103-5dd52ac99e30?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/kids/article/Ankylosaurus/352762",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #165",
+    "tags": [
+      "ankylosaurus",
+      "armor",
+      "defense"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-166",
+    "title": "Megalodon Had 7-Inch Serrated Teeth",
+    "fact": "The prehistoric giant shark Megalodon grew up to 60 feet long, with jaw spans wide enough to swallow two adult humans standing side-by-side!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Natural History Museum London",
+    "sourceUrl": "https://www.nhm.ac.uk/discover/megalodon-the-largest-shark-that-ever-lived.html",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #166",
+    "tags": [
+      "megalodon",
+      "sharks",
+      "extinct"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-167",
+    "title": "Argentinosaurus weighed as much as 14 Elephants",
+    "fact": "Argentinosaurus was a colossal titanosaur measuring over 115 feet long and weighing nearly 80 metric tons, shaking the ground with every step!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Paleobiology Database",
+    "sourceUrl": "https://paleobiodb.org/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #167",
+    "tags": [
+      "argentinosaurus",
+      "titanosaur",
+      "giants"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-168",
+    "title": "Woolly Mammoths Thrived in Arctic Glaciers",
+    "fact": "Woolly mammoths had blood adapted with natural anti-freeze hemoglobin that kept oxygen flowing through their veins in sub-zero ice ages!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Nature Genetics",
+    "sourceUrl": "https://www.nature.com/articles/ng.555",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #168",
+    "tags": [
+      "mammoth",
+      "ice-age",
+      "extinct"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-169",
+    "title": "Pterosaurs Were Flying Reptiles, Not Dinosaurs",
+    "fact": "Pterosaurs like Quetzalcoatlus had wingspans up to 36 feet (the size of a small airplane!), but they were flying archosaurs, not true dinosaurs!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1569793666141-86082c5a287c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Insider",
+    "sourceUrl": "https://insider.si.edu/2012/05/pterosaur-flight/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #169",
+    "tags": [
+      "pterosaur",
+      "flight",
+      "reptile"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-170",
+    "title": "Stegosaurus Brain Was the Size of a Walnut",
+    "fact": "Despite weighing nearly 5 tons and measuring 30 feet, Stegosaurus had a brain estimated at only 3 ounces—comparable to the size of a plum or walnut!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1525877442103-5dd52ac99e30?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Natural History Museum London",
+    "sourceUrl": "https://www.nhm.ac.uk/discover/dino-directory/stegosaurus.html",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #170",
+    "tags": [
+      "stegosaurus",
+      "jurassic",
+      "plates"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-171",
+    "title": "Sabre-Toothed Smilodon Fangs Were 7 Inches",
+    "fact": "Smilodon fatalis possessed curved upper canines up to 7 inches long, designed for delivering precise fatal strikes to the jugular veins of prey!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "La Brea Tar Pits & Museum",
+    "sourceUrl": "https://tarpits.org/experience-tar-pits/smilodon",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #171",
+    "tags": [
+      "smilodon",
+      "ice-age",
+      "predator"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-172",
+    "title": "Brachiosaurus Nostrils Were on Its Forehead",
+    "fact": "Fossil skulls show Brachiosaurus had large nasal openings situated high atop its cranium, once leading scientists to mistakenly believe it lived underwater!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Britannica Kids",
+    "sourceUrl": "https://kids.britannica.com/kids/article/Brachiosaurus/352877",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #172",
+    "tags": [
+      "brachiosaurus",
+      "sauropod",
+      "fossils"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-173",
+    "title": "Parasaurolophus Horn Was a Musical Trombone",
+    "fact": "The 6-foot hollow bony crest on Parasaurolophus skull acted as an acoustic resonance chamber, creating deep foghorn-like vocal calls that echoed across miles!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Field Museum",
+    "sourceUrl": "https://www.fieldmuseum.org/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #173",
+    "tags": [
+      "parasaurolophus",
+      "sound",
+      "crest"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-174",
+    "title": "Birds Are Living Avian Dinosaurs",
+    "fact": "Modern birds didn't just evolve from dinosaurs—taxonomically, every sparrow, eagle, and penguin IS a living theropod dinosaur!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1444464666168-49d633b86797?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "UC Berkeley Paleontology",
+    "sourceUrl": "https://ucmp.berkeley.edu/diapsids/avians.html",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #174",
+    "tags": [
+      "birds",
+      "evolution",
+      "theropod"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-175",
+    "title": "Archaeopteryx Feathered Missing Link",
+    "fact": "Discovered in 1861 in Germany, Archaeopteryx was the revolutionary fossil displaying sharp dinosaur teeth, a long bony tail, and bird-like flight wings!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1525877442103-5dd52ac99e30?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian National Museum of Natural History",
+    "sourceUrl": "https://naturalhistory.si.edu/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #175",
+    "tags": [
+      "archaeopteryx",
+      "feathers",
+      "fossils"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-176",
+    "title": "Pachycephalosaurus Battering Ram Skull",
+    "fact": "Pachycephalosaurus had a solid bone dome on top of its skull nearly 9 inches thick, used for jousting battles or side-ramming rivals!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1569793666141-86082c5a287c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Museum of Natural History",
+    "sourceUrl": "https://www.amnh.org/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #176",
+    "tags": [
+      "pachycephalosaurus",
+      "skull",
+      "cretaceous"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-177",
+    "title": "Microraptor Had Four Feathery Wings",
+    "fact": "Microraptor was a crow-sized feathered predator with long flight feathers on both its front arms AND hind legs, gliding through prehistoric treetops like a biplane!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Science Magazine",
+    "sourceUrl": "https://www.science.org/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #177",
+    "tags": [
+      "microraptor",
+      "four-wings",
+      "gliding"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-178",
+    "title": "Giant Ground Sloth Megatherium Was Elephant-Sized",
+    "fact": "In prehistoric South America, Megatherium was a 20-foot ground sloth that could stand on its hind legs to pull whole tree branches down!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Natural History Museum",
+    "sourceUrl": "https://www.sdnhm.org/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #178",
+    "tags": [
+      "ground-sloth",
+      "ice-age",
+      "megafauna"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-179",
+    "title": "Carnotaurus Bull Horns and Tiny Arms",
+    "fact": "The Carnotaurus of prehistoric Patagonia had two genuine bull-like horns above its eyes and arms so minuscule they couldn't even bend at the elbow!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1525877442103-5dd52ac99e30?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Natural History Museum London",
+    "sourceUrl": "https://www.nhm.ac.uk/discover/dino-directory/carnotaurus.html",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #179",
+    "tags": [
+      "carnotaurus",
+      "horns",
+      "theropod"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-180",
+    "title": "Dunkleosteus Armored Ocean Terror",
+    "fact": "Living 360 million years ago, Dunkleosteus was an armored placoderm fish whose self-sharpening bony jaw plates snapped shut with guillotine speed!",
+    "category": "dinosaurs",
+    "categoryLabel": "Dinosaurs & Fossils 🦖",
+    "mediaUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian National Museum of Natural History",
+    "sourceUrl": "https://naturalhistory.si.edu/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #180",
+    "tags": [
+      "dunkleosteus",
+      "devonian",
+      "armored-fish"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-181",
+    "title": "Blue Whale Heart is Big as a Bumper Car",
+    "fact": "The blue whale is the largest animal ever known to have lived. Its heart weighs over 400 pounds and its heartbeat can be detected two miles away!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Monterey Bay Aquarium",
+    "sourceUrl": "https://www.montereybayaquarium.org/animals/animals-a-to-z/blue-whale",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #181",
+    "tags": [
+      "blue-whale",
+      "giants",
+      "mammal"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-182",
+    "title": "Octopuses Have Three Hearts and Blue Blood",
+    "fact": "Two hearts pump blood to the gills, while the third pumps it to the organs. Their blood is rich in copper-based hemocyanin, making it bright blue!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Ocean",
+    "sourceUrl": "https://ocean.si.edu/ocean-life/invertebrates/octopuses-have-three-hearts-and-blue-blood",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #182",
+    "tags": [
+      "octopus",
+      "hearts",
+      "invertebrate"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-183",
+    "title": "Immortal Jellyfish Can Reset Its Age",
+    "fact": "Turritopsis dohrnii is biologically immortal! When injured or starving, it can revert its mature cells back into a juvenile polyp colony and restart its lifecycle!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "American Museum of Natural History",
+    "sourceUrl": "https://www.amnh.org/explore/news-blogs/on-exhibit-posts/immortal-jellyfish",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #183",
+    "tags": [
+      "jellyfish",
+      "immortality",
+      "biology"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-184",
+    "title": "Colossal Squid Eyes Are as Big as Dinner Plates",
+    "fact": "Living thousands of feet down in icy Antarctic depths, the colossal squid has eyes measuring 11 inches across—the largest eyes in the animal kingdom!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Te Papa Tongarewa Museum",
+    "sourceUrl": "https://www.tepapa.govt.nz/discover-collections/read-watch-play/colossal-squid",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #184",
+    "tags": [
+      "squid",
+      "deep-sea",
+      "eyes"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-185",
+    "title": "Sea Otters Hold Hands While Sleeping",
+    "fact": "Sea otters float on their backs in giant kelp forests and hold hands in 'rafts' so tidal currents don't drift them apart overnight!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1589656966895-2f33e7653819?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Monterey Bay Aquarium",
+    "sourceUrl": "https://www.montereybayaquarium.org/animals/animals-a-to-z/southern-sea-otter",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #185",
+    "tags": [
+      "sea-otter",
+      "kelp",
+      "mammals"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-186",
+    "title": "Mantis Shrimp Sonic Punch",
+    "fact": "The peacock mantis shrimp snaps its club-like raptorial appendages so fast that it creates underwater cavitation bubbles hotter than the surface of the sun!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://www.nationalgeographic.com/animals/invertebrates/facts/peacock-mantis-shrimp",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #186",
+    "tags": [
+      "mantis-shrimp",
+      "punch",
+      "crustacean"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-187",
+    "title": "Anglerfish Bioluminescent Headlight",
+    "fact": "Female deep-sea anglerfish have an illuminated lure called an esca packed with glowing symbiotic bacteria, attracting prey in pitch-black midnight zones!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "NOAA Ocean Exploration",
+    "sourceUrl": "https://oceanexplorer.noaa.gov/facts/anglerfish.html",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #187",
+    "tags": [
+      "anglerfish",
+      "deep-sea",
+      "bioluminescence"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-188",
+    "title": "Great White Shark Tooth Factory",
+    "fact": "A great white shark goes through as many as 20,000 to 30,000 teeth in its lifetime, replacing lost teeth in rows like a conveyor belt!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Florida Museum of Natural History",
+    "sourceUrl": "https://www.floridamuseum.ufl.edu/discover-fish/sharks/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #188",
+    "tags": [
+      "shark",
+      "teeth",
+      "predator"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-189",
+    "title": "Clownfish Mucus Cloak",
+    "fact": "Clownfish produce a specialized thick sugar-based mucus coating that prevents sea anemone tentacles from firing venomous harpoon-like nematocysts at them!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/fish/facts/clownfish",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #189",
+    "tags": [
+      "clownfish",
+      "anemone",
+      "coral-reef"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-190",
+    "title": "Manta Rays Have the Largest Brain of Any Fish",
+    "fact": "Giant oceanic manta rays possess the highest brain-to-body mass ratio of all fish and have passed mirror self-recognition tests!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Scripps Institution of Oceanography",
+    "sourceUrl": "https://scripps.ucsd.edu/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #190",
+    "tags": [
+      "manta-ray",
+      "intelligence",
+      "ocean"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-191",
+    "title": "Greenland Shark Can Live for 400 Years",
+    "fact": "Swimming slowly through icy Arctic oceans, Greenland sharks don't even reach reproductive maturity until they are 150 years old—making them the longest-lived vertebrates!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Science Magazine",
+    "sourceUrl": "https://www.science.org/doi/10.1126/science.aaf1703",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #191",
+    "tags": [
+      "greenland-shark",
+      "longevity",
+      "arctic"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-192",
+    "title": "Dolphins Sleep with One Eye Open",
+    "fact": "Dolphins practice unihemispheric slow-wave sleep: only half of their brain sleeps at a time so they can keep surfacing to breathe and watch for predators!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Woods Hole Oceanographic Institution",
+    "sourceUrl": "https://www.whoi.edu/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #192",
+    "tags": [
+      "dolphin",
+      "sleep",
+      "marine-mammal"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-193",
+    "title": "Deep-Sea Gulper Eel Giant Mouth",
+    "fact": "The pelican eel or gulper eel can expand its pouch-like jaw to swallow fish significantly larger than its own body volume in nutrient-poor deep trenches!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Monterey Bay Aquarium Research Institute (MBARI)",
+    "sourceUrl": "https://www.mbari.org/animal/gulper-eel/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #193",
+    "tags": [
+      "gulper-eel",
+      "abyss",
+      "deep-sea"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-194",
+    "title": "Orca Dialects Across Pods",
+    "fact": "Orca pods develop distinct acoustic vocal dialects passed down across matriarchal generations, just like regional human languages and accents!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Oceanic and Atmospheric Administration (NOAA)",
+    "sourceUrl": "https://www.fisheries.noaa.gov/species/killer-whale",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #194",
+    "tags": [
+      "orca",
+      "killer-whale",
+      "communication"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-195",
+    "title": "Mimic Octopus Shape-Shifts into 15 Species",
+    "fact": "The Indonesian mimic octopus can contort its body and change its color to impersonate venomous lionfish, banded sea snakes, and flat flounder!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian Magazine",
+    "sourceUrl": "https://www.smithsonianmag.com/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #195",
+    "tags": [
+      "mimic-octopus",
+      "camouflage",
+      "coral-reef"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-196",
+    "title": "Seahorses: Males Give Birth",
+    "fact": "Male seahorses possess a specialized brood pouch where the female deposits eggs. The male fertilizes, carries, and births hundreds of miniature seahorse fry!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/fish/facts/seahorse",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #196",
+    "tags": [
+      "seahorse",
+      "reproduction",
+      "ocean"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-197",
+    "title": "Bioluminescent Waves Caused by Dinoflagellates",
+    "fact": "Glow-in-the-dark blue ocean shorelines are caused by billions of microscopic single-celled dinoflagellates producing light when agitated by crashing waves!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Scripps Oceanography",
+    "sourceUrl": "https://scripps.ucsd.edu/news/bioluminescence",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #197",
+    "tags": [
+      "bioluminescence",
+      "plankton",
+      "waves"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-198",
+    "title": "Sperm Whale Click is Loudest Sound in Nature",
+    "fact": "Sperm whale echolocation clicks reach up to 230 decibels underwater—so intense they can travel thousands of miles and could vibrate human eardrums!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Scientific American",
+    "sourceUrl": "https://www.scientificamerican.com/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #198",
+    "tags": [
+      "sperm-whale",
+      "echolocation",
+      "deep-sea"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-199",
+    "title": "Humpback Whale Bubble-Net Hunting",
+    "fact": "Humpback whales work in coordinated teams to blow spiraling cylinders of bubbles around schools of krill, trapping them like a shimmering fish net!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Marine Sanctuaries",
+    "sourceUrl": "https://sanctuaries.noaa.gov/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #199",
+    "tags": [
+      "humpback-whale",
+      "bubble-net",
+      "cooperation"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-200",
+    "title": "Vampire Squid Cloak of Spikes",
+    "fact": "The vampire squid isn't a bloodsucker! It feeds on floating marine snow and turns itself inside out into a spiked umbrella cloak when threatened!",
+    "category": "ocean",
+    "categoryLabel": "Ocean Abyss 🌊",
+    "mediaUrl": "https://images.unsplash.com/photo-1545671913-b89ac1b4ac10?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "MBARI",
+    "sourceUrl": "https://www.mbari.org/animal/vampire-squid/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #200",
+    "tags": [
+      "vampire-squid",
+      "abyss",
+      "deep-sea"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-201",
+    "title": "Elephants Communicate Through Seismic Ground Vibrations",
+    "fact": "Elephants emit ultra-low-frequency infrasound rumbles that travel through the ground. Other herds detect these rumbles through sensitive nerve endings in their footpads up to 20 miles away!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Smithsonian's National Zoo",
+    "sourceUrl": "https://nationalzoo.si.edu/animals/asian-elephant",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #201",
+    "tags": [
+      "elephant",
+      "infrasound",
+      "communication"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-202",
+    "title": "Cheetahs Use Tails as Steering Rudders",
+    "fact": "At 70 mph, a cheetah's long muscular tail acts like a dynamic boat rudder, counteracting centrifugal force so it can make 90-degree sharp turns in mid-air!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1534177616072-ef7dc120449d?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "San Diego Zoo Wildlife Alliance",
+    "sourceUrl": "https://animals.sandiegozoo.org/animals/cheetah",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #202",
+    "tags": [
+      "cheetah",
+      "speed",
+      "agility"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-203",
+    "title": "Platypus Senses Electricity With Its Bill",
+    "fact": "The duck-billed platypus hunts underwater with its eyes, ears, and nostrils closed! Its bill contains 40,000 electroreceptors detecting the muscular electricity of shrimp!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Australian Museum",
+    "sourceUrl": "https://australian.museum/learn/animals/mammals/platypus/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #203",
+    "tags": [
+      "platypus",
+      "electroreception",
+      "monotreme"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-204",
+    "title": "Sloths Poo Only Once a Week on the Ground",
+    "fact": "Sloths have such slow metabolic rates that they descend from their canopy treetops only once a week to poop, losing up to one-third of their body weight in a single visit!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Sloth Conservation Foundation",
+    "sourceUrl": "https://slothconservation.org/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #204",
+    "tags": [
+      "sloth",
+      "rainforest",
+      "metabolism"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-205",
+    "title": "Red Pandas Have a False Thumb",
+    "fact": "Red pandas have an elongated wrist bone called a radial sesamoid that acts as a sixth digit, allowing them to grip bamboo stalks with incredible precision!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "World Wildlife Fund",
+    "sourceUrl": "https://www.worldwildlife.org/species/red-panda",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #205",
+    "tags": [
+      "red-panda",
+      "bamboo",
+      "anatomy"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-206",
+    "title": "Giraffes Have 20-Inch Purple Prehensile Tongues",
+    "fact": "A giraffe's tongue is up to 21 inches long and colored deep purple-black with heavy melanin pigmentation to protect it from sunburn as it strips acacia thorns!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1538099130811-745e64318258?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "National Geographic Kids",
+    "sourceUrl": "https://kids.nationalgeographic.com/animals/mammals/facts/giraffe",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #206",
+    "tags": [
+      "giraffe",
+      "tongue",
+      "savanna"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-207",
+    "title": "Wombats Poop in Cubes",
+    "fact": "Wombats are the only animals in the world that produce cubic feces! The horizontal groove elasticity of their intestines molds the poop into cubes that won't roll off rocks!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Science Advances",
+    "sourceUrl": "https://www.science.org/doi/10.1126/sciadv.aau7767",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #207",
+    "tags": [
+      "wombat",
+      "marsupial",
+      "australia"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-208",
+    "title": "Otters Have 1 Million Hairs Per Square Inch",
+    "fact": "Sea otters don't have blubber; instead, they have the densest fur in the animal kingdom—up to 1,000,000 hairs per square inch, trapping a layer of dry insulating air!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1589656966895-2f33e7653819?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Monterey Bay Aquarium",
+    "sourceUrl": "https://www.montereybayaquarium.org/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #208",
+    "tags": [
+      "otter",
+      "fur",
+      "adaptation"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-209",
+    "title": "Pangolins Have Keratin Armor Plates",
+    "fact": "Pangolins are the only mammals covered in tough overlapping scales made of keratin (the same protein in human fingernails), rolling into an impenetrable armored ball!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "World Wildlife Fund",
+    "sourceUrl": "https://www.worldwildlife.org/species/pangolin",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #209",
+    "tags": [
+      "pangolin",
+      "armor",
+      "conservation"
+    ],
+    "isCuratedFact": true
+  },
+  {
+    "id": "fact-210",
+    "title": "Bats Eat 1,200 Mosquitoes an Hour",
+    "fact": "A single little brown bat can catch and consume up to 1,200 mosquito-sized insects in just sixty minutes, acting as vital ecological pest controllers!",
+    "category": "mammals",
+    "categoryLabel": "Wild Land & Mammals 🦁",
+    "mediaUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1200&q=80",
+    "mediaType": "image",
+    "sourceName": "Bat Conservation International",
+    "sourceUrl": "https://www.batcon.org/",
+    "date": "2026-09-19",
+    "badge": "Zoe's Flash Pick #210",
+    "tags": [
+      "bat",
+      "echolocation",
+      "night"
+    ],
+    "isCuratedFact": true
+  }
+]

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="50%" stop-color="#f43f5e" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Rounded squircle background for iOS icon -->
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <circle cx="256" cy="256" r="230" fill="url(#glow)" />
+  
+  <!-- Main Paw Pad -->
+  <ellipse cx="256" cy="316" rx="92" ry="72" fill="#ffffff" />
+  
+  <!-- Toe Pads -->
+  <ellipse cx="148" cy="216" rx="36" ry="48" fill="#ffffff" transform="rotate(-18 148 216)" />
+  <ellipse cx="218" cy="168" rx="36" ry="52" fill="#ffffff" transform="rotate(-6 218 168)" />
+  <ellipse cx="294" cy="168" rx="36" ry="52" fill="#ffffff" transform="rotate(6 294 168)" />
+  <ellipse cx="364" cy="216" rx="36" ry="48" fill="#ffffff" transform="rotate(18 364 216)" />
+  
+  <!-- Dino Tail Accent on bottom right -->
+  <path d="M 330 380 Q 400 400 440 370 Q 390 430 320 400 Z" fill="#ffffff" opacity="0.8" />
+  
+  <!-- Little heart in main pad -->
+  <path d="M 256 310 C 256 300 244 290 234 296 C 220 304 228 322 256 342 C 284 322 292 304 278 296 C 268 290 256 300 256 310 Z" fill="#f43f5e" />
+</svg>

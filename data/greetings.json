@@ -1,0 +1,92 @@
+{
+  "dayTemplates": {
+    "0": {
+      "dayName": "Sunday",
+      "greetings": [
+        "Hey Zoe, Happy Sunday Safari! Ready for some weekend creature discoveries? 🐾",
+        "Lazy Sunday vibes Zoe! Did you know cats sleep 16 hours a day just like this? 🐱💤",
+        "Sunday Expedition Zoe! The oceans are calling with wild discoveries today 🌊"
+      ],
+      "defaultCategory": "cats-dogs"
+    },
+    "1": {
+      "dayName": "Monday",
+      "greetings": [
+        "Hey Zoe Happy Monday, let's start the week with some meow-meow energy! 🐾✨",
+        "Monday Mission Zoe: Time to unleash dog-level energy for a brand new week! 🐶⚡",
+        "Rise and shine Zoe! Unlocking wild mammal discoveries to jumpstart your week 🦁"
+      ],
+      "defaultCategory": "cats-dogs"
+    },
+    "2": {
+      "dayName": "Tuesday",
+      "greetings": [
+        "T-Rex Tuesday Zoe! Time to dig up prehistoric giants that ruled the Earth 🦖🦴",
+        "Terrific Tuesday Zoe: Did you know octopuses have three hearts and blue blood? 🐙💙",
+        "Tuesday Trek Zoe! Exploring the wildest jungles and rainforests today 🌴"
+      ],
+      "defaultCategory": "dinosaurs"
+    },
+    "3": {
+      "dayName": "Wednesday",
+      "greetings": [
+        "Hump Day Safari Zoe! Camels can drink 40 gallons of water in 10 minutes 🐪💧",
+        "Wild Wednesday Zoe! Paws, claws, and ocean jaws are lined up for you 🐾🌊",
+        "Halfway through the week Zoe! Here is something mind-blowing about wolf packs 🐺"
+      ],
+      "defaultCategory": "mammals"
+    },
+    "4": {
+      "dayName": "Thursday",
+      "greetings": [
+        "Throwback Thursday Zoe: Meet the Megalodon and Ice Age Mammoths! 🦣🦷",
+        "Thunder Thursday Zoe! Discover the fastest peregrine falcon swoops 🦅⚡",
+        "Deep-Dive Thursday Zoe: Strange bioluminescent ocean creatures glow just for you! 🌟🦑"
+      ],
+      "defaultCategory": "dinosaurs"
+    },
+    "5": {
+      "dayName": "Friday",
+      "greetings": [
+        "FOSSIL FRIDAY ZOE! Unearthing massive dinosaur discoveries 68M years old 🦖🔥",
+        "Fri-YAY Zoe! Golden retrievers and snow leopards are ready to celebrate the weekend 🐕🎉",
+        "Friday Explorer Zoe: High-speed ocean predators spotted on the radar! 🦈🌊"
+      ],
+      "defaultCategory": "dinosaurs"
+    },
+    "6": {
+      "dayName": "Saturday",
+      "greetings": [
+        "It's Caturday Zoe! Maximum purrs, whiskers, and feline stealth today 🐾😻",
+        "Super Saturday Zoe! A cool day to discover extinct apex predators and giant beasts 🦕",
+        "Weekend Safari Zoe! Dive into the deep Pacific abyss with electric stingrays 🐬"
+      ],
+      "defaultCategory": "cats-dogs"
+    }
+  },
+  "timeCallouts": {
+    "morning": [
+      "Rise and shine Zoe! Morning birds and early savanna stalkers are awake 🌅",
+      "Morning patrol Zoe! Dogs have a sense of time and already miss you 🐶☀️",
+      "Breakfast facts Zoe: Hummingbirds eat half their weight in sugar every morning! 🌸"
+    ],
+    "afternoon": [
+      "Afternoon alert Zoe! Sunbathing lizards and hunting cheetahs spotted 🐆☀️",
+      "Hey Zoe, quick study break: Can you guess which dinosaur had 500 teeth? 🦖🔍",
+      "Midday mystery Zoe: Why do dogs tilt their heads when you talk to them? 🐾❓"
+    ],
+    "evening": [
+      "Nocturnal mode Zoe! Snow owls and deep-sea glowers come out to play 🦉🌙",
+      "Evening cool-down Zoe: Purrs vibrate at 20-140 Hz—healing frequencies! 🐱✨",
+      "Night safari Zoe: Deep abyss squids communicate with flashing neon light! 🦑🌌"
+    ]
+  },
+  "dynamicCallouts": [
+    "Hey Zoe, we found something insane about dog nose prints—they're unique as human fingerprints! 🐕",
+    "Did you know Zoe: Spinosaurus was actually the largest carnivorous dinosaur ever discovered? 🦖",
+    "Alert Zoe: Cats make over 100 distinct vocal sounds, while dogs only make around 10! 🐱",
+    "Did you know Zoe: Sea otters hold hands while sleeping so they don't drift away! 🦦💖",
+    "Hey Zoe, mantis shrimps can punch with the acceleration of a .22 caliber bullet! 🥊🦐",
+    "Breaking Discovery Zoe: Orcas actually have distinct cultural dialects in different oceans! 🐋"
+  ]
+}

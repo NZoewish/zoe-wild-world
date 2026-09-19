@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: zoe-wild-world
+    env: node
+    plan: free
+    region: oregon
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NODE_VERSION
+        value: 20.16.0
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: PEXELS_API_KEY
+        sync: false
+      - key: PIXABAY_API_KEY
+        sync: false
