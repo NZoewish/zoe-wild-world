@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Zoe's Wild World 🐾</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #080d1a;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      color: #ffffff;
+      text-align: center;
+    }
+    .loader {
+      width: 48px;
+      height: 48px;
+      border: 4px solid rgba(245, 158, 11, 0.2);
+      border-top-color: #f59e0b;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin-bottom: 20px;
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <div class="loader"></div>
+  <h2>Entering Zoe's Wild World... 🐾</h2>
+  <script>
+    // If running in Capacitor with a live server URL, redirect will occur via capacitor.config.ts
+    // Otherwise redirect to localhost or production host
+    if (window.location.protocol === 'file:') {
+      // Local Capacitor container
+    }
+  </script>
+</body>
+</html>
